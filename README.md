@@ -105,6 +105,6 @@ clickstream-analytics/
 
 This repository documents an academic project. The original Oracle environment is no longer available, so the complete system cannot currently be reproduced end to end.
 
-The repository is being organized to preserve the relevant implementation code, SQL scripts, architecture documentation, and selected screenshots from the project.
+This repository preserves the implementation code, SQL scripts, architecture documentation, and selected screenshots from the original academic project.
 
 Synthetic clickstream data was used for experimentation; the analytical results should not be interpreted as findings from a real customer dataset.
